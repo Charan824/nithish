@@ -1,0 +1,14 @@
+.top{
+    background-color: rgb(248, 238, 216);
+    text-align: center;
+    /* display: flex; */
+    height: 20px;
+    width: auto;
+}
+.b1{
+    background-color:rgb(249, 192, 70);
+    text-shadow: 0.1cm;
+    text-align: center;
+    border-radius: 30px;
+    border: 0cap;
+}
